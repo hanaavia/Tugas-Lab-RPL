@@ -4,7 +4,6 @@ Project **Rekayasa Perangkat Lunak (RPL)** untuk manajemen database film.
 
 ---
 
-## 🍎 Mac / Linux One-Liner Setup
 Buka **Terminal** di dalam folder project, lalu copy & paste perintah di bawah ini untuk setup otomatis:
 
 ```bash
@@ -27,7 +26,6 @@ Run Project
 
 Bash
 npm run dev
-⚠️ Catatan Khusus User Mac
 Jika muncul error Port 3000 is already in use, gunakan perintah ini untuk menjalankan di port lain:
 
 Bash
